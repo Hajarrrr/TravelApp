@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "576179622059",
+    "project_id": "voyage-ba34f",
+    "storage_bucket": "voyage-ba34f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576179622059:android:47dc688fc03ea300b867ee",
+        "android_client_info": {
+          "package_name": "com.example.projets4test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576179622059-ol8sfjgr520se4k691n91bl17ulg3j7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvdfurRpVbbzfMWfCN7GQXNxVPQtu7Yco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576179622059-ol8sfjgr520se4k691n91bl17ulg3j7a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576179622059:android:8b46903653eb1748b867ee",
+        "android_client_info": {
+          "package_name": "com.example.voyage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576179622059-ol8sfjgr520se4k691n91bl17ulg3j7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvdfurRpVbbzfMWfCN7GQXNxVPQtu7Yco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576179622059-ol8sfjgr520se4k691n91bl17ulg3j7a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

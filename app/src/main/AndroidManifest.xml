@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.projets4test">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.Light">
+        <activity
+            android:name=".AdminGererVoyageurs"
+            android:label="@string/title_activity_admin_gerer_voyageurs"
+            android:theme="@style/NoActionBar"></activity>
+        <activity android:name=".AdminGererAgences" />
+        <!--
+        <activity
+            android:name=".MesRate"
+            android:label="@string/title_activity_mes_rate"
+            android:theme="@style/NoActionBar"></activity>
+        -->
+        <activity android:name=".ShowAllRate" />
+        <activity android:name=".RateAgence" />
+        <activity android:name=".AjouterVoyage" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+
+        <activity android:name=".Register1" />
+        <activity android:name=".Register2" />
+        <activity android:name=".Insert" />
+        <activity android:name=".DataCrud" />
+        <activity android:name=".MesPatients" />
+        <activity android:name=".MesRdv" />
+        <activity android:name=".Update" />
+        <activity android:name=".Profile" />
+        <activity android:name=".Space1" />
+        <activity android:name=".Login" />
+        <activity android:name=".Login2" />
+        <activity android:name=".Login1" />
+        <activity android:name=".ChefSpace" />
+        <activity android:name=".Space2Patient" />
+        <activity android:name=".DataCrud2" />
+        <activity android:name=".Insert2" />
+        <activity android:name=".Update2" />
+        <activity android:name=".Profile2" />
+        <activity android:name=".MesPatientsVoyagePrix" />
+        <activity android:name=".MesPatientsVoyagePrix2" />
+        <activity android:name=".MesRate" />
+        <activity
+            android:name=".Drawer"
+            android:label="@string/title_activity_drawer"
+            android:theme="@style/Theme.ProjetS4.NoActionBar" />
+        <activity android:name=".AccueilActivity" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
